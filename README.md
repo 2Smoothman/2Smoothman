@@ -1,6 +1,6 @@
 ### Hi, I'm Indrek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## ✨ About:
+#### ✨ About:
 Currently studying at Kood/Jõhvi, I’m passionate about solving challenging problems, debugging tricky issues, and keeping up with the latest in tech. As a full-stack developer, I thrive on learning and adapting, always striving for more efficient solutions. For me, “it works” is just the beginning—there’s always room to improve and grow.
 
  <br>
