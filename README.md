@@ -3,10 +3,6 @@
 ## ✨ About:
 Currently studying at Kood/Jõhvi, I’m passionate about solving challenging problems, debugging tricky issues, and keeping up with the latest in tech. As a full-stack developer, I thrive on learning and adapting, always striving for more efficient solutions. For me, “it works” is just the beginning—there’s always room to improve and grow.
 
- <a href="https://www.linkedin.com/in/timofey-tech/" target="_blank"><img alt="Timofey | LinkedIn" width="22px" src="./linkedin.svg" /></a>
- &nbsp;&nbsp;
- <a href="mailto:timofey.babisashvili@gmail.com" target="_blank"><img alt="Timofey | Gmail" width="22px" src="./gmail.svg" /></a>
- 
  <br>
  
  ## 🌐 Socials:
